@@ -5,7 +5,7 @@ This project focuses on predicting house prices using Machine Learning technique
 
 This project helped me strengthen my understanding of Supervised Learning, Regression Models, Data Preprocessing, and Model Evaluation while applying concepts to real-world housing data. 📊💡
 
-🎯 Problem Statement
+# 🎯 Problem Statement
 
 Real estate prices depend on multiple factors, and manually estimating property value can be inaccurate.
 
@@ -15,7 +15,7 @@ The objective of this project is to:
 ✅ Train a regression model
 ✅ Predict house prices accurately
 
-📂 Dataset Description
+# 📂 Dataset Description
 
 The dataset contains features such as:
 
@@ -33,7 +33,7 @@ The dataset contains features such as:
 
 💰 Sale Price (Target Variable)
 
-⚙️ Technologies Used
+# ⚙️ Technologies Used
 
 🐍 Python
 
@@ -47,7 +47,7 @@ The dataset contains features such as:
 
 🔗 Git & GitHub
 
-🔄 Project Workflow
+# 🔄 Project Workflow
 1️⃣ Data Preprocessing
 
 Handling missing values
@@ -82,13 +82,13 @@ Mean Squared Error (MSE)
 
 R² Score
 
-📊 Results
+# 📊 Results
 
 ✔️ Successfully trained the model
 ✔️ Achieved good prediction accuracy
 ✔️ Identified key factors influencing house prices
 
-🚀 Key Learnings
+# 🚀 Key Learnings
 
 ✨ Strong understanding of Regression
 ✨ Practical experience with real-world dataset
@@ -96,7 +96,7 @@ R² Score
 ✨ Hands-on experience in model evaluation
 ✨ Better understanding of feature importance
 
-📎 How to Run the Project
+# 📎 How to Run the Project
 
 Clone the repository
 
